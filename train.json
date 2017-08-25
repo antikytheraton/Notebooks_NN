@@ -1,0 +1,49 @@
+[
+  {"text":"enero","label":"ene"},
+  {"text":"ene","label":"ene"},
+  {"text":"january","label":"ene"},
+
+  {"text":"febrero","label":"feb"},
+  {"text":"feb","label":"feb"},
+  {"text":"february","label":"feb"},
+
+  {"text":"marzo","label":"mar"},
+  {"text":"mar","label":"mar"},
+  {"text":"march","label":"mar"},
+
+  {"text":"abril","label":"abr"},
+  {"text":"abr","label":"abr"},
+  {"text":"april","label":"abr"},
+
+  {"text":"mayo","label":"may"},
+  {"text":"may","label":"may"},
+  {"text":"may","label":"may"},
+
+  {"text":"junio","label":"jun"},
+  {"text":"jun","label":"jun"},
+  {"text":"june","label":"jun"},
+
+  {"text":"julio","label":"jul"},
+  {"text":"jul","label":"jul"},
+  {"text":"july","label":"jul"},
+
+  {"text":"agosto","label":"ago"},
+  {"text":"ago","label":"ago"},
+  {"text":"august","label":"ago"},
+
+  {"text":"septiembre","label":"sep"},
+  {"text":"sep","label":"sep"},
+  {"text":"september","label":"sep"},
+
+  {"text":"octubre","label":"oct"},
+  {"text":"oct","label":"oct"},
+  {"text":"october","label":"oct"},
+
+  {"text":"noviembre","label":"nov"},
+  {"text":"nov","label":"nov"},
+  {"text":"november","label":"nov"},
+
+  {"text":"diciembre","label":"dic"},
+  {"text":"dic","label":"dic"},
+  {"text":"december","label":"dic"}
+]
